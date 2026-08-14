@@ -8,10 +8,18 @@ This repository contains my solutions to Data Structures and Algorithms problems
 
 - Arrays
 - Strings
-- Binary Search
-- Sorting
+- HashMap
+- HashSet
+- PriorityQueue / Heap
 - Recursion
-- Basics
+- Sorting
+- Binary Search
+- Stack
+- Queue
+- Deque
+- Monotonic Stack
+- Monotonic Deque
+- Two Pointers
 
 ## Language
 
